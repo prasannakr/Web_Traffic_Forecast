@@ -1,6 +1,6 @@
 # Web_Traffic_Forecast
 
-
+Medium Blog post explaining about this time-series model is available [here](https://prasannakr.medium.com/a-simple-in-depth-guide-on-time-series-forecasting-786ee86cf67c) <br/>
 
 ## **Table of Contents:**
 1. [Project Introduction](README.md#project-introduction)
